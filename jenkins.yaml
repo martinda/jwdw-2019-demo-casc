@@ -1,0 +1,15 @@
+jenkins:
+    systemMessage: "Jenkins configured automatically with Jenkins Configuration as Plugin\n\n"
+    numExecutors: 5
+
+credentials:
+    system:
+        domainCredentials:
+            - credentials:
+                - usernamePassword:
+                    scope: GLOBAL
+                    id: ${SomeUserId}
+                    username: ${SomeUserName}
+                    password: ${SomeUserPassword} #Load from Environment Variable
+                    description: "Username/Password Credentials for Martin"
+

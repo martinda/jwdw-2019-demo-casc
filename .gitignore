@@ -1,0 +1,4 @@
+jenkins_installation/
+*.war
+*.sha256
+*.log
