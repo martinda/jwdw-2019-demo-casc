@@ -88,6 +88,6 @@ echo "Jenkins is ready"
 
 # After configuration as code, we need to authenticate,
 # export credentials to the jenkins-rest JClouds library
-export JENKINS_REST_CREDENTIALS=$SomeUserId:$SomUserPassword
+export JENKINS_REST_CREDENTIALS=$SomeUserId:$SomeUserPassword
 groovy createJob "folder1/folder2/myjob"
 groovy runJob "folder1/folder2/myjob"
