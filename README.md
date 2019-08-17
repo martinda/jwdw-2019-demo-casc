@@ -2,7 +2,7 @@
 
 This is an example of how to setup Jenkins without ever touching the GUI.
 
-Jenkins World Devops World 2019 [presentation link](https://drive.google.com/file/d/1c2YmaaiV4HV_GnHdH7xvWtRdE7E2WTHY/view?usp=sharing).
+Jenkins World Devops World 2019 [presentation link](https://drive.google.com/file/d/1sahuY3AHs7NjAi8EgPECKD8JueCJLUuh/view?usp=sharing).
 
 ## Requirements
 
